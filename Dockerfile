@@ -6,4 +6,4 @@ RUN cd /srv/www; bundle install --deployment
 
 EXPOSE 3000
 
-CMD cd /srv/www; padrino start --host 0.0.0.0
+CMD cd /srv/www; bundle exec padrino start --host 0.0.0.0
