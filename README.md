@@ -13,5 +13,3 @@ cd sinatra
 git remote add octohost git@ip.address.here:padrino.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://padrino.octohost.io](http://padrino.octohost.io)
